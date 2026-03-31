@@ -4,6 +4,18 @@ Beyaz eşya lojistiği için akıllı konteynır yükleme sistemi. Teslimat rota
 
 ---
 
+## Ekran Görüntüleri
+
+| Boş konteynır | Yerleşim sonrası |
+|:-:|:-:|
+| ![Boş konteynır](docs/images/empty-container.png) | ![Yerleşim sonrası](docs/images/packed-view.png) |
+
+| Üstten görünüm | Yandan görünüm | Yakın çekim |
+|:-:|:-:|:-:|
+| ![Üstten](docs/images/top-view.png) | ![Yandan](docs/images/side-view.png) | ![Yakın](docs/images/close-up.png) |
+
+---
+
 ## Ne Yapıyor?
 
 Bir konteynıra yüklenecek ürünleri **teslimat sırasına göre optimize ederek** yerleştirir. İlk teslim edilecek ürün kapıya en yakın durur — böylece teslimat noktasında diğer ürünleri sökmeden direkt erişirsiniz.
